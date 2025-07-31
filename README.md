@@ -251,5 +251,5 @@ We gratefully acknowledge the following contributions and technologies that enab
  
  ---
 
-The views expressed on this page are those of the authors and do not represent the view of the ECB or the ESCB.
+*The views expressed on this page are those of the authors and do not represent the view of the ECB or the ESCB.
  
