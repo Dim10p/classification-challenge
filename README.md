@@ -7,11 +7,11 @@
 
 ## 👥 Team Composition
 
-- **Dimitrios Petridis** – Data Scientist, European Central Bank  
+- **Dimitrios Petridis** – Data Scientist, European Central Bank*  
   📧 dimitrios.petridis@ecb.europa.eu  
-- **Georgios Kanellos** – Team Lead Statistics, European Central Bank  
+- **Georgios Kanellos** – Team Lead Statistics, European Central Bank*  
   📧 georgios.kanellos@ecb.europa.eu  
-- **Jannic Cutura** – Senior Data Engineer, ECB & Research Fellow, DSTI  
+- **Jannic Cutura** – Senior Data Engineer, European Central Bank* & Research Fellow, DSTI  
   📧 jannic.cutura@dsti.institute  
 
 ---
@@ -248,3 +248,8 @@ We gratefully acknowledge the following contributions and technologies that enab
   - **FlagEmbedding** for multilingual vector representations
   - **Hugging Face Transformers** and **PyTorch** for seamless integration of state-of-the-art LLMs
   - **Pandas**, **TQDM**, and other ecosystem tools for efficient data handling and experimentation
+ 
+ ---
+
+The views expressed on this page are those of the authors and do not represent the view of the ECB or the ESCB.
+ 
